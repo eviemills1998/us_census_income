@@ -12,7 +12,7 @@ This Jupyter notebook performs an initial analysis of the dataset, including:
 
 The goal of EDA is to better understand the dataset
 
-## 2. modelling.ipynb - Model Building & Evaluation
+### 2. modelling.ipynb - Model Building & Evaluation
 This notebook builds and evaluates machine learning models to predict income classification:
 
 XGBoost Classifier: A gradient boosting algorithm known for its effectiveness in handling structured/tabular data.
