@@ -33,3 +33,6 @@ It’s more of an exploratory phase to dive deeper into the model's results to b
 
 ### 4. project.py
 A script to store file paths used throughout this project.
+
+### 5. requirements.txt - Dependencies
+A  text file listing all the Python libraries required to run the notebooks, including  libraries like pandas, numpy, xgboost, and sklearn. 
